@@ -2,6 +2,8 @@
 
 An enhanced AI assistant for your personal website with RAG, SQL knowledge base, evaluator pattern, and agentic tool use.
 
+To deploy the back-end I can use Render. To deploy the front-end I can use Netlify.
+
 ## Architecture
 
 ```
