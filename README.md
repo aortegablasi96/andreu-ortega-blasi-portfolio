@@ -1,4 +1,4 @@
-# Izuchukwu Obi — Personal AI Assistant
+# Andreu Ortega Blasi — Personal AI Assistant
 
 An enhanced AI assistant for your personal website with RAG, SQL knowledge base, evaluator pattern, and agentic tool use.
 
